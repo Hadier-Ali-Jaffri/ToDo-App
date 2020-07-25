@@ -1,0 +1,19 @@
+.todo{
+    text-align: center;
+}
+.btn{
+    background-color: gray;
+    font-size: 15px;
+  
+}
+h1{
+    text-align: center;
+    background-color:aqua
+}
+button{
+    margin: 5px;
+    font-size: 20px;
+}
+input{
+    font-size: 20px;
+}
